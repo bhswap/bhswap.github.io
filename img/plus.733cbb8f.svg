@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <style>
+      .cls-1, .cls-4 {
+        fill: #d9b4fa;
+      }
+
+      .cls-1 {
+        stroke: #707070;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-3 {
+        clip-path: url(#clip-path-2);
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect id="矩形_72" data-name="矩形 72" class="cls-1" width="20" height="20" transform="translate(197 352)"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="矩形_75" data-name="矩形 75" class="cls-1" width="10" height="10" transform="translate(171 214)"/>
+    </clipPath>
+  </defs>
+  <g id="蒙版组_13" data-name="蒙版组 13" class="cls-2" transform="translate(-197 -352)">
+    <g id="蒙版组_12" data-name="蒙版组 12" class="cls-3" transform="translate(237.477 82.764) rotate(45)">
+      <path id="路径_405" data-name="路径 405" class="cls-4" d="M22.982,22.767l4.072-4.073a.533.533,0,0,0,0-.75l-.022-.022a.533.533,0,0,0-.75,0L22.21,22l-4.072-4.079a.533.533,0,0,0-.75,0l-.022.022a.524.524,0,0,0,0,.75l4.072,4.073L17.366,26.84a.533.533,0,0,0,0,.75l.022.022a.533.533,0,0,0,.75,0l4.072-4.073,4.072,4.073a.533.533,0,0,0,.75,0l.022-.022a.533.533,0,0,0,0-.75Z" transform="translate(153.792 196.233)"/>
+    </g>
+  </g>
+</svg>
